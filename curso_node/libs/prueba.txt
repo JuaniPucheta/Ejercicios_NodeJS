@@ -1,0 +1,2 @@
+Este es el contenido de un texto
+Aquí va otra linea de codigo
